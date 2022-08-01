@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CurrencyConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "fichier.txt"
+    }
+  }
+}
